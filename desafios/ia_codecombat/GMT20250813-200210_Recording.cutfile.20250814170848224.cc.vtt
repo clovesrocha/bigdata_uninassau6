@@ -1,0 +1,1253 @@
+WEBVTT
+
+1
+00:00:05.718 --> 00:00:13.718
+Where Gabby and Noah, we're the success team, and we're excited to talk with you about how to implement AI Hackstack in your classrooms.
+
+
+2
+00:00:13.718 --> 00:00:23.718
+A little bit about me, I'm a Senior Success Manager at Cone Combat, and as a Success Manager, my job is to make sure your life runs as easy as possible.
+
+
+3
+00:00:23.718 --> 00:00:34.718
+By ensuring you feel confident using our programs. I'm also a former educator who understands the demands of the educator role, so I'm always happy to help our educators.
+
+
+4
+00:00:34.718 --> 00:00:37.718
+Now, I'll let Noah introduce himself.
+
+
+5
+00:00:37.718 --> 00:01:00.718
+Thanks, Gabby. Hi, everyone. My name's Noah, and similar to Gabby, I'm a School Success Manager here at Code Combat. I've spent the last few years supporting educators like yourselves drive lasting results in their classrooms, and I actually come from a background of support here at the company, so I've been given a unique opportunity to get to know our products inside and out, and I'm so excited to share how you can leverage our new AI Hackstack program in each of your classrooms today.
+
+
+6
+00:01:00.718 --> 00:01:10.718
+Um, if you do have any questions after this webinar, please don't hesitate to reach out to us at AI at codecombat.com.
+
+
+7
+00:01:10.718 --> 00:01:24.718
+So, a little bit about our company. Code Combat was founded over 10 years ago, and although we are a small team, we serve a lot of students and teachers across the globe. You'll notice that we've now engaged over 20 million engaged students. We have 1 billion lines of code to date that's been coded.
+
+
+8
+00:01:24.718 --> 00:01:34.718
+With 320,000 supported educators and 75,000 schools reached, uh, 190-plus countries and 5.2 million.
+
+
+9
+00:01:34.718 --> 00:01:41.718
+Esports players in our AI esports league, so all very exciting stats for us.
+
+
+10
+00:01:41.718 --> 00:02:01.718
+So before we dive into things, uh, we want to let you know you will receive a certificate of completion for today's webinar. More specifically, you will earn the certificate by responding to all of our poll questions today. I'm sorry, they're going to be scattered throughout the webinar, and there's going to be four in total, so you will receive your Certificate of completion in an email after the webinar is concluded.
+
+
+11
+00:02:01.718 --> 00:02:12.718
+But please don't hesitate to let us know if you need another form of confirmation to verify these professional development hours for licensing purposes in your state or district.
+
+
+12
+00:02:12.718 --> 00:02:21.718
+So we believe that in order to use AI Hackstack effectively, it helps to know a little bit about what AI is and where we can find it in the world.
+
+
+13
+00:02:21.718 --> 00:02:30.718
+Here's our first poll for today. You should see a poll pop-up screen in just a second here, but we want to know which of the following is not an example of.
+
+
+14
+00:02:30.718 --> 00:02:37.718
+Ai, um, is it A autocorrect in text documents, B, GPS navigation?
+
+
+15
+00:02:37.718 --> 00:02:45.718
+See, a search engine like Google, or D, a barcode scanner at a store?
+
+
+16
+00:02:45.718 --> 00:02:51.718
+So I'll give you a few moments to answer.
+
+
+17
+00:02:51.718 --> 00:03:03.718
+Okay, it looks like most of us got this right, the correct answer is a barcode scanner at the store is not an example of AI. All of the other options are examples of AI.
+
+
+18
+00:03:03.718 --> 00:03:10.718
+Some of which have been around for quite some time.
+
+
+19
+00:03:10.718 --> 00:03:19.718
+Whoops. So we like to define AI as software… oh, let's close those results out real quick.
+
+
+20
+00:03:19.718 --> 00:03:39.718
+So we like to define AI as software that can perform tasks typically completed by a human. This means that a lot of things can be an example of AI. For example, robots dancing is an example of AI, or the ghost chasing Pac-Man is another example of AI. So being able to define the term can help you identify it in the world, which is the first step to critically using AI products like AI Hackstack.
+
+
+21
+00:03:39.718 --> 00:03:49.718
+So with that in mind, can anyone describe more examples of AI in the chat?
+
+
+22
+00:03:49.718 --> 00:03:56.718
+And give you a few moments to put some responses down.
+
+
+23
+00:03:56.718 --> 00:04:04.718
+Sure. Uh, so… AI, essentially, we like to think of it as software that can perform tasks typically completed by a human.
+
+
+24
+00:04:04.718 --> 00:04:21.718
+Um, so that means that a lot of things can be examples of AI. So, for example, robots dancing would be an example of AI, or those ghosts in Pac-Man that Chase Pac-Man would be an example. Um, so with those examples in mind, can anyone else come up with any other examples in the chat below?
+
+
+25
+00:04:21.718 --> 00:04:26.718
+Yeah, an AI video generator. Chatgpt, that's definitely a great example of AI.
+
+
+26
+00:04:26.718 --> 00:04:32.718
+Or Alexa. Mm-hmm.
+
+
+27
+00:04:32.718 --> 00:04:38.718
+Yeah, self-driving cars, that's another great example.
+
+
+28
+00:04:38.718 --> 00:04:43.718
+Awesome. Thanks, guys, for all your responses.
+
+
+29
+00:04:43.718 --> 00:04:50.718
+Great, so now that we know a little bit more about AI, it's time to see how you can effectively use.
+
+
+30
+00:04:50.718 --> 00:04:59.718
+Ai hackstack in the classroom. We're gonna go through a typical teacher's workflow when using Hackstack and its curriculum.
+
+
+31
+00:04:59.718 --> 00:05:04.718
+So the first thing you will need to do is set up your first AI Hackstack class.
+
+
+32
+00:05:04.718 --> 00:05:08.718
+This is where you can assign levels to your students to complete in HACSAT.
+
+
+33
+00:05:08.718 --> 00:05:14.718
+When you create a class, make sure that you select AI Hackstack as your initial course.
+
+
+34
+00:05:14.718 --> 00:05:21.718
+Uh, we're gonna share our screen. To show you how to do that. And then once your educator account is created on ColdCombat.com.
+
+
+35
+00:05:21.718 --> 00:05:34.718
+You'll go to your Cold Combat Teacher Dashboard. Once you're there, you'll select Add New Class.
+
+
+36
+00:05:34.718 --> 00:05:44.718
+And the pop-up that appears, there is an option to import your students via Google Classroom or via your Azaria Classroom if you already have a class set up in our other coding program.
+
+
+37
+00:05:44.718 --> 00:05:51.718
+Or you can enter the details manually. When doing it manually, you'll create a class name.
+
+
+38
+00:05:51.718 --> 00:05:55.718
+You'll then select the initial courses you want students to start with.
+
+
+39
+00:05:55.718 --> 00:06:00.718
+Here you'll see the Cold Combat Junior option, which is designed for the elementary learner.
+
+
+40
+00:06:00.718 --> 00:06:06.718
+The cold combat introduction to Computer Science option, that's designed for secondary students.
+
+
+41
+00:06:06.718 --> 00:06:11.718
+These are two of three of Cold Combat's core platforms that teach coding.
+
+
+42
+00:06:11.718 --> 00:06:18.718
+You'll also see the AI Hack Stack option. So teachers have an ability to select all of the options for the initial courses when relevant.
+
+
+43
+00:06:18.718 --> 00:06:23.718
+However, for this presentation, we're just going to select AI Hackstep.
+
+
+44
+00:06:23.718 --> 00:06:29.718
+And then we don't have to worry about choosing their programming language for AI Hackstat, because it defaults to JavaScript.
+
+
+45
+00:06:29.718 --> 00:06:38.718
+So now we'll click Create Class. And then once you create a class, it'll show in the list under all classes.
+
+
+46
+00:06:38.718 --> 00:06:46.718
+For this presentation, we're going to use our demo class to show you our teacher dashboard.
+
+
+47
+00:06:46.718 --> 00:06:53.718
+So, jumping into the class. You'll notice once it loads here…
+
+
+48
+00:06:53.718 --> 00:07:00.718
+Sorry, give me a second, Gabby. Are we having trouble seeing… This screen here…
+
+
+49
+00:07:00.718 --> 00:07:05.718
+Can everyone see the teacher dashboard? Okay, perfect. Just wanted to make sure.
+
+
+50
+00:07:05.718 --> 00:07:14.718
+Mm-hmm. Thank you. So you'll see the student roster on the left-hand side of your screen when students are enrolled in the class.
+
+
+51
+00:07:14.718 --> 00:07:19.718
+From this dashboard, you can easily apply and revoke student licenses.
+
+
+52
+00:07:19.718 --> 00:07:36.718
+And remove students by selecting all students or individual students. And choosing the operation you want to perform. Um, the dashboard is very user-friendly. There are also progress bubbles where you can easily keep track of how your students are progressing through the content from the dashboard.
+
+
+53
+00:07:36.718 --> 00:07:41.718
+Progress bubbles for activities are clickable, so you can view students' work.
+
+
+54
+00:07:41.718 --> 00:07:57.718
+And even view their project submissions. You can also lock content from here, so entire modules can be locked at a time from the dashboard by simply hovering over the lock icon and locking or unlocking that module.
+
+
+55
+00:07:57.718 --> 00:08:07.718
+Locking content can be useful if you are following our lesson plans, want to pause students from getting too far ahead, or want to pause students to review important concepts.
+
+
+56
+00:08:07.718 --> 00:08:14.718
+So now let's jump into the curriculum.
+
+
+57
+00:08:14.718 --> 00:08:20.718
+So, in the curriculum Guide tab, there are 9 modules that are categorized into different themes and subjects.
+
+
+58
+00:08:20.718 --> 00:08:34.718
+To allow students to explore AI in different content areas. Currently, everyone has access to the first module for free. If you're interested in trying more of the curriculum, please don't hesitate to reach out to us at AI at coldcombat.com.
+
+
+59
+00:08:34.718 --> 00:08:43.718
+We'll make sure that you can check out the rest. Now, let's dive into the first lesson in AI Hackstack.
+
+
+60
+00:08:43.718 --> 00:08:56.718
+So, our slides are student-facing and designed to help guide. To help you guide the class through each lesson, as we dive into the first lesson, the AI Hacks That Curriculum, be sure to check the notes section on the title slides.
+
+
+61
+00:08:56.718 --> 00:09:07.718
+These notes include helpful guidance and talking points to support your instruction.
+
+
+62
+00:09:07.718 --> 00:09:12.718
+Today's journey slide shows the agenda. Notice the structure of this lesson.
+
+
+63
+00:09:12.718 --> 00:09:23.718
+Learn, remix, create. This is a structure that will… that you will find in all of the lessons, no matter the topic being taught within the lesson.
+
+
+64
+00:09:23.718 --> 00:09:29.718
+Students are given the goals of that day's lesson. This slide is important because it helps create purpose.
+
+
+65
+00:09:29.718 --> 00:09:37.718
+Focus, and motivation in the learning process for the lesson.
+
+
+66
+00:09:37.718 --> 00:09:45.718
+Note the slide's objective is highlighted at the top of each slide. As we've seen, Lesson 1 is broken down into 5 parts.
+
+
+67
+00:09:45.718 --> 00:09:53.718
+Chat, learn, remix, create, and close. It starts with 3 less chat questions that help students explore the topic together in a structured.
+
+
+68
+00:09:53.718 --> 00:10:02.718
+Thoughtful way. These conversations are designed to deepen understanding, encourage students to make connections, and build critical thinking skills.
+
+
+69
+00:10:02.718 --> 00:10:07.718
+This is an example, and another… and then this is just another reminder for me.
+
+
+70
+00:10:07.718 --> 00:10:15.718
+Be sure to check out the notes section on each slide. That's where we've added helpful talking points and guidance to support you as you lead the lesson.
+
+
+71
+00:10:15.718 --> 00:10:21.718
+And now we're just gonna jump into presenter mode. And show you the slides as the students would see them.
+
+
+72
+00:10:21.718 --> 00:10:29.718
+So, as the lesson progresses, we'll transition into the learn phase. This is where students dive into the AI Hackstack program.
+
+
+73
+00:10:29.718 --> 00:10:35.718
+The platform guides them step-by-step through activities we've designed to help them use AI effectively.
+
+
+74
+00:10:35.718 --> 00:10:43.718
+And this particular activity, students will be learning how to use… Use AI to create a game.
+
+
+75
+00:10:43.718 --> 00:10:47.718
+After students are in the program and completed the learn phase, they'll debrief.
+
+
+76
+00:10:47.718 --> 00:10:53.718
+You can do a think, pair, and share here, small group discussion, or a whole class discussion.
+
+
+77
+00:10:53.718 --> 00:11:01.718
+This allows students to engage with the material, think critically, and apply what they're learning in real time.
+
+
+78
+00:11:01.718 --> 00:11:11.718
+Next, students move into the remix part of the lesson. This phase still provides guidance, but gives them a bit more freedom to experiment and start bringing in their own ideas.
+
+
+79
+00:11:11.718 --> 00:11:22.718
+While learning to use AI more effectively. After completing the remix activity, there are more discussion slides.
+
+
+80
+00:11:22.718 --> 00:11:35.718
+In this lesson, there is even a student-led Socratic seminar where students engage in a thoughtful discussion.
+
+
+81
+00:11:35.718 --> 00:11:44.718
+Here's the question for this lesson. The student-led conversations aim to shift the classroom to a student-centered inquiry.
+
+
+82
+00:11:44.718 --> 00:11:55.718
+Helping students become more thoughtful, engaged, and articulate learners. Now students move into the create phase of the lesson. This is another way to formatively assess students.
+
+
+83
+00:11:55.718 --> 00:12:02.718
+Here, they could put everything they've learned so far into practice.
+
+
+84
+00:12:02.718 --> 00:12:08.718
+After students create their game in this lesson, they get a chance to show off their work to their peers.
+
+
+85
+00:12:08.718 --> 00:12:15.718
+And provide feedback. Promoting a collaborative classroom culture.
+
+
+86
+00:12:15.718 --> 00:12:23.718
+After the gallery walk, there are more discussion slides. Here's an example of one that follows.
+
+
+87
+00:12:23.718 --> 00:12:36.718
+And we know that understanding vocabulary using the industry is important, so here students are given important vocabulary terms they should know in the context of the lesson.
+
+
+88
+00:12:36.718 --> 00:12:48.718
+At the end of a lesson, there are wrap-up questions. This lesson has 3 wrap-up questions, and here's an example. The wrap-up questions are formative assessments to assess students' understanding of the lesson.
+
+
+89
+00:12:48.718 --> 00:12:53.718
+These questions can be answered as a whole group discussion, think, pair, share, small group.
+
+
+90
+00:12:53.718 --> 00:12:59.718
+And even given in the form of exit tickets.
+
+
+91
+00:12:59.718 --> 00:13:06.718
+That takes us to the end of the first lesson, where you can see the standards that is tied to this particular lesson.
+
+
+92
+00:13:06.718 --> 00:13:14.718
+So I hope that this was helpful, and as you can see, the lesson has students moving in and out of the AI Hackstack program in a structured way.
+
+
+93
+00:13:14.718 --> 00:13:20.718
+The activities are designed to help them learn how to use AI effectively, while also encouraging peer learning.
+
+
+94
+00:13:20.718 --> 00:13:32.718
+Supporting critical thinking and building confidence along the way. Now, let's hop back into the presentation.
+
+
+95
+00:13:32.718 --> 00:13:37.718
+Each lesson in its entirety is estimated to take about 5 class sessions.
+
+
+96
+00:13:37.718 --> 00:13:44.718
+We recommend you use the lessons as much as you can, because they contain important discussion and debate prompts within them.
+
+
+97
+00:13:44.718 --> 00:13:52.718
+Because of the newness of AI. Discussion is one of the best ways to help students formulate their own ideas and opinions about AI.
+
+
+98
+00:13:52.718 --> 00:14:01.718
+We also support a self-paced use of AI has set. Each, learn, remix, create set of levels is estimated to take about 2 hours of time.
+
+
+99
+00:14:01.718 --> 00:14:11.718
+Now we're going to share our screen and show you the actual pacing guide.
+
+
+100
+00:14:11.718 --> 00:14:21.718
+So, this is our AI hacks that pacing guide. What you're looking at right now is a one-year pacing overview. If you scroll down, you'll find a more detailed breakdown of the lessons.
+
+
+101
+00:14:21.718 --> 00:14:28.718
+There are also two tabs at the bottom of the page. If you're looking for a semester-length, self-paced plan instead, just click that option.
+
+
+102
+00:14:28.718 --> 00:14:34.718
+So this pacing guide can be found in the Getting Started folder in the teacher.
+
+
+103
+00:14:34.718 --> 00:14:42.718
+Toolkit, and it can help you structure your classes.
+
+
+104
+00:14:42.718 --> 00:14:50.718
+And we also know that assessments are important, so we have added both a formative and summative assessment to every lesson and module.
+
+
+105
+00:14:50.718 --> 00:14:58.718
+Each lesson contains four formative assessments. Wrap-up exit ticket questions for each learning objective, and one mini-project prompt.
+
+
+106
+00:14:58.718 --> 00:15:03.718
+The mini project is the create step of the Learn Remix, Create.
+
+
+107
+00:15:03.718 --> 00:15:09.718
+Every module contains an open-ended project that you can use to assess your students' overall mastery of the topics.
+
+
+108
+00:15:09.718 --> 00:15:18.718
+We have included exemplar projects and rubrics to help you implement these in your classrooms.
+
+
+109
+00:15:18.718 --> 00:15:23.718
+Finally, you can use the teacher dashboard to highlight the progress and safety of your students.
+
+
+110
+00:15:23.718 --> 00:15:28.718
+Although we prevent your students from requesting inappropriate things at Hadstead.
+
+
+111
+00:15:28.718 --> 00:15:36.718
+We provide you with a log of those requests. This can be useful when you are having conversations with families and administrators and students.
+
+
+112
+00:15:36.718 --> 00:15:43.718
+We also have many data agreements with the big AI companies, so they cannot legally save your student data.
+
+
+113
+00:15:43.718 --> 00:15:49.718
+We also have filters in place to remove PII if it is accidentally included within the prompt.
+
+
+114
+00:15:49.718 --> 00:15:55.718
+Finally, you can always lock levels if you feel uncomfortable with your students using a particular model.
+
+
+115
+00:15:55.718 --> 00:16:04.718
+Now we're going to share our screen and show you what the flag system looks like.
+
+
+116
+00:16:04.718 --> 00:16:15.718
+So we're going now to the teacher dashboard to show you how you'll be able to detect when a student submits an inappropriate prompt. A violation could be identified when a red square appears around a circle.
+
+
+117
+00:16:15.718 --> 00:16:24.718
+By clicking on the flag circle, you can view more about that violation. Here's a case where a student attempted to create a game containing crafts and language and inappropriate content.
+
+
+118
+00:16:24.718 --> 00:16:31.718
+When a violation occurs, our AI program will block the prompt instead of executing the instruction.
+
+
+119
+00:16:31.718 --> 00:16:36.718
+The student must revise and submit an appropriate prompt in order to proceed.
+
+
+120
+00:16:36.718 --> 00:16:44.718
+You may also view the full project by clicking the Open Project button located below the list of safety violations.
+
+
+121
+00:16:44.718 --> 00:16:55.718
+So, ultimately, we hope these safety features provide peace of mind and enable you to confidently monitor your students as they learn to use AI responsibly.
+
+
+122
+00:16:55.718 --> 00:17:02.718
+Now we're hopping back to the presentation. And it's time for another poll here.
+
+
+123
+00:17:02.718 --> 00:17:10.718
+There's no right or wrong answer. I'm just gonna launch that for you.
+
+
+124
+00:17:10.718 --> 00:17:21.718
+So, we just want to note your… um, opinion here. What feature would you like to see added to the teacher dashboard? A. Percent of unit completed. B.
+
+
+125
+00:17:21.718 --> 00:17:35.718
+Notifications for new moderation flags, C, auto-graded projects, or D. Something else, other. Please write… if it's something else, please write it in the chat for us.
+
+
+126
+00:17:35.718 --> 00:17:42.718
+It looks like many people want to see the auto-graded projects.
+
+
+127
+00:17:42.718 --> 00:17:51.718
+Then, percent of unit completed… After that, we have notifications for new moderation flags.
+
+
+128
+00:17:51.718 --> 00:18:03.718
+Thank you for sharing that. We'll definitely let our product team know.
+
+
+129
+00:18:03.718 --> 00:18:12.718
+And we have another poll here. What model would you like to see added to Hackstead? A. Imogen, B, Suno, C, VO, D.
+
+
+130
+00:18:12.718 --> 00:18:22.718
+Something else. Um, keep in mind, we already have ChatGBT. Google Gemini, Dolly 3, Quad Sinet, and Stable Diffusion. Let me…
+
+
+131
+00:18:22.718 --> 00:18:33.718
+Watch that for you. Please tell us what you would like to see added.
+
+
+132
+00:18:33.718 --> 00:18:39.718
+Looks like many people are interested in SUNO.
+
+
+133
+00:18:39.718 --> 00:18:41.718
+Tuno's a great one.
+
+
+134
+00:18:41.718 --> 00:18:52.718
+We have VO in second place, Imogen… Thank you all for sharing that information.
+
+
+135
+00:18:52.718 --> 00:19:01.718
+And… Let's see… I see writing assistance in the, um, chat as well. That's great, actually.
+
+
+136
+00:19:01.718 --> 00:19:15.718
+Perfect. Well, thanks, Gabby, for that fantastic presentation. Um, so now that we've gone over the educator experience in Hackstack, it's time to see the student side of things. Let's experience the first lesson again, but this time through the lens of a student.
+
+
+137
+00:19:15.718 --> 00:19:32.718
+So the Hackstack was designed for middle school and high school students. In addition to aligning a curriculum around the big standards like Common Core and NGSS, we are making sure that every lesson is also aligned with the Code Combat AI literacy skills for each grade level. This means that your students will learn important 21st century skills alongside the content-specific skills they need.
+
+
+138
+00:19:32.718 --> 00:19:39.718
+With that in mind, let's take a look at our AI literacy framework.
+
+
+139
+00:19:39.718 --> 00:19:59.718
+So the framework is organized with one big idea per section, followed by three skill sets that support it. Each skill is then broken down into specific grade-level objectives, creating a complete K-12 pathway. There's also a Going Further section for students who want the challenge themselves beyond those core objectives.
+
+
+140
+00:19:59.718 --> 00:20:13.718
+Remember, every lesson follows a Learn Remix-Create structure, so with that in mind, let's complete each of these steps as a student. I'm now going to share my screen and hop into one of our first AI Hackstack learning modules.
+
+
+141
+00:20:13.718 --> 00:20:23.718
+Oops, let's hop in here. Perfect, so once AI HackStack has been assigned to students, they can jump into the platform through the My Courses section of their student dashboard.
+
+
+142
+00:20:23.718 --> 00:20:28.718
+As we come into the main AI Hackstack page, right away there are two things worth noting on the left side of the screen.
+
+
+143
+00:20:28.718 --> 00:20:39.718
+The first is the My Creations tab here, where students can quickly access any projects they've worked on before. And second, we have the My Courses tab, where they can open or revisit courses and learning scenarios they've started or completed.
+
+
+144
+00:20:39.718 --> 00:20:52.718
+On the right side, we see 9 different learning modules, each offering unique scenarios across a variety of subjects. For today's training, we'll head into the English Language Arts section, Module 2A, and open the first scenario, Dreams.
+
+
+145
+00:20:52.718 --> 00:21:04.718
+So when we select this module, you'll see the familiar Learn, Remix, and Create structure that runs across all HackStack scenarios. This consistency helps students quickly understand what's expected, and gives them the tools they need to confidently create.
+
+
+146
+00:21:04.718 --> 00:21:23.718
+Let's go ahead and hop into Dreams now. So right upon entering the scenario, we're greeted by our teacher chatbot with a friendly welcome message, AI HackSec lessons are delivered through chatbot interactions like this one, just like a common AI engine, making the experience authentic and familiar.
+
+
+147
+00:21:23.718 --> 00:21:29.718
+Let's go ahead and click continue. All right, and upon… oh, sorry.
+
+
+148
+00:21:29.718 --> 00:21:34.718
+So, again, now we're given our first scenario where we're greeted by our chatbot with.
+
+
+149
+00:21:34.718 --> 00:21:47.718
+Essentially an objective to read the first stanza of Langston Hughes' poem, Dreams, Hacksec is also going to provide… provide us with a link where we can access that poem, and we can read it. We'll go ahead and select that.
+
+
+150
+00:21:47.718 --> 00:21:58.718
+Let's take a look at the first stanza. And it reads, Hold fast to dreams for if dreams die, life is a broken winged bird that cannot fly.
+
+
+151
+00:21:58.718 --> 00:22:03.718
+Perfect. So now back in Hackstack. And once we click continue.
+
+
+152
+00:22:03.718 --> 00:22:07.718
+We're gonna be told to prompt the AI to illustrate that stanza.
+
+
+153
+00:22:07.718 --> 00:22:23.718
+Let's go ahead and continue again. So, in the learn portion, students are provided with multiple pre-written prompts to help guide their AI interactions. These scenarios are real AI engines, in this case, Dolly 3. Students are given several prompt options here they can revisit the stanza as well by either.
+
+
+154
+00:22:23.718 --> 00:22:28.718
+Tabbing back over to that same tab that they have it open, or by selecting that link they were previously provided.
+
+
+155
+00:22:28.718 --> 00:22:36.718
+So let's go ahead and experiment here. Let's say we want to choose something maybe a bit vague or incorrect, like this short prompt here, create an image of a bird.
+
+
+156
+00:22:36.718 --> 00:22:45.718
+Immediately, Hackstack is gonna flag it, it's gonna explain why it's not strong enough and how to improve that. So this feedback helps students develop better prompting skills overall.
+
+
+157
+00:22:45.718 --> 00:22:51.718
+Let's go ahead and see this example in the bottom prompt here. Create an image of a sad Langston Hughes.
+
+
+158
+00:22:51.718 --> 00:23:05.718
+Holding a bird in its hands. And again, we're gonna reach that flag, but this one is actually going to be flagging it for not only copyright purposes, but also AI efficacy in terms of using the likeness of a specific person.
+
+
+159
+00:23:05.718 --> 00:23:11.718
+Let's go ahead and use the correct. Prompt as well. Which is, create a gloomy.
+
+
+160
+00:23:11.718 --> 00:23:17.718
+Sorry, create a gloomy black and white image of a bird that cannot fly.
+
+
+161
+00:23:17.718 --> 00:23:25.718
+All right. Click continue here. So now Hackstack has generated a striking image that captures the Sansa's mood perfectly.
+
+
+162
+00:23:25.718 --> 00:23:32.718
+And beneath that image, we have a link that the students can copy and use in other projects, plus a caption showing the exact language used to create it.
+
+
+163
+00:23:32.718 --> 00:23:41.718
+Which reinforces the descriptive prompts to lead to better results. Go ahead and click continue.
+
+
+164
+00:23:41.718 --> 00:23:52.718
+Next, the chatbot is going to introduce part two. And it's essentially going to ask us if we knew that using the same prompt can actually produce a different result.
+
+
+165
+00:23:52.718 --> 00:23:58.718
+So now we're instructed to select the same prompt and see how things change.
+
+
+166
+00:23:58.718 --> 00:24:06.718
+So again, we're going to have multiple choice options as a student here. Let's say the student isn't quite paying attention, or maybe lost a little bit.
+
+
+167
+00:24:06.718 --> 00:24:14.718
+Attention along the way, and selects the incorrect prompt. Again, we're gonna get that flag, which in this case is going to flag it for being inappropriate, since it's actually.
+
+
+168
+00:24:14.718 --> 00:24:17.718
+Trying to prompt a gory image of a bird that's dying.
+
+
+169
+00:24:17.718 --> 00:24:26.718
+But let's go ahead and select the correct answer here, create a gloomy black and white image of a bird that cannot fly.
+
+
+170
+00:24:26.718 --> 00:24:34.718
+All right, so we use the same prompt again, and this time it gets… we get a very different image. So, an empty field with a sad ostrich this time.
+
+
+171
+00:24:34.718 --> 00:24:41.718
+This teaches students that they can rerun prompts for variety until they get what they want.
+
+
+172
+00:24:41.718 --> 00:24:47.718
+And at the end of this section, the chatbot is going to encourage reflection before moving on to the next phase, illustrating.
+
+
+173
+00:24:47.718 --> 00:24:55.718
+Uh, the second stanza. So we'll click Continue here, we'll get a bit more dialogue.
+
+
+174
+00:24:55.718 --> 00:25:01.718
+And again, we're going to be provided that link to… the Langston Hughes poem as well.
+
+
+175
+00:25:01.718 --> 00:25:06.718
+And now we're gonna have the option that leads to our next remix segment, so we're gonna go ahead and select next level to.
+
+
+176
+00:25:06.718 --> 00:25:12.718
+Enter that remix segment of this. Scenario.
+
+
+177
+00:25:12.718 --> 00:25:18.718
+So now we enter the remix segment. This is where the training wheels come off, and students write their own prompts from scratch.
+
+
+178
+00:25:18.718 --> 00:25:23.718
+So, again, we're going to revisit that same prompt. I'm sorry, that same poem.
+
+
+179
+00:25:23.718 --> 00:25:28.718
+And if we go up here, we can go ahead and take a look at it. It says, hold fast to dreams for when dreams go.
+
+
+180
+00:25:28.718 --> 00:25:39.718
+Life is a barren field frozen with snow. And then we're gonna hop back here and click continue.
+
+
+181
+00:25:39.718 --> 00:25:49.718
+All right, so again, we get to revisit that poem, and now we're tasked with prompting directly here as the student. So now we have full reign in terms of where we're going to prompt, so in this case, let's go ahead and write the prompt.
+
+
+182
+00:25:49.718 --> 00:25:57.718
+Create an image of a desolate. Field of snow?
+
+
+183
+00:25:57.718 --> 00:26:04.718
+Oh, let's what makes these little corrections here. The image should be… Dark…
+
+
+184
+00:26:04.718 --> 00:26:10.718
+And gloomy. I'm gonna see what this produces.
+
+
+185
+00:26:10.718 --> 00:26:17.718
+All right, and now, while that loads, there's a couple of things we can take note of. One is that we see that there is a credit.
+
+
+186
+00:26:17.718 --> 00:26:24.718
+Deposit here, essentially, or a credit pool here beneath the prompt window. So each student is given 30 prompt credits per week.
+
+
+187
+00:26:24.718 --> 00:26:29.718
+And this encourages them to be intentional in detailing in their wording, or as detailed.
+
+
+188
+00:26:29.718 --> 00:26:34.718
+And the wording as possible. And now we can see we've now produced a brand new image of an empty field of snow.
+
+
+189
+00:26:34.718 --> 00:26:41.718
+It's a really pretty image of this subject, and it could work, but let's say maybe we're not satisfied with that image. Maybe we want to do it again.
+
+
+190
+00:26:41.718 --> 00:26:49.718
+So let's go ahead and copy what we previously pasted. And we'll go ahead and paste that again.
+
+
+191
+00:26:49.718 --> 00:27:03.718
+And we'll let Hackstack take some moments here to create a new image for us, and let's see if we can get something that we like a little bit better.
+
+
+192
+00:27:03.718 --> 00:27:24.718
+We'll just give that a moment. All right, now as we can see, even using the same prompt again in the Remix function allows us to get a completely different image. So students really have complete creative control here when it comes to their prompting, and they can produce dramatically different results across the board, which, uh, in the classroom can obviously be a lot of fun for students to be able to share with their classmates and their.
+
+
+193
+00:27:24.718 --> 00:27:36.718
+Peers. And at this point, this basically leads us to the end of the remix section. Um, so at this point, students can now select this next level, which essentially is going to take them to.
+
+
+194
+00:27:36.718 --> 00:27:53.718
+Uh, the create segment, where students combine what they've learned and build something entirely on their own through the guidance of learning objectives included in our lesson slides and lesson plans. But before we wrap up, let's go ahead and revisit the student safety features. So once students have free reign over prompting, obviously we want to ensure that they stay.
+
+
+195
+00:27:53.718 --> 00:27:58.718
+Appropriate with their prompting as well. So let's go ahead and test it out from the student perspective again.
+
+
+196
+00:27:58.718 --> 00:28:06.718
+Uh, I'll go ahead and create a prompt here saying. Create an image… whoops.
+
+
+197
+00:28:06.718 --> 00:28:13.718
+Of a, let's say, gory bird. Dead in a field.
+
+
+198
+00:28:13.718 --> 00:28:20.718
+And it can. Immediately, we're going to get that flag, and it's going to break that down in terms of why that's inappropriate.
+
+
+199
+00:28:20.718 --> 00:28:26.718
+Um, it's also going to deduct one of those prompt credits, teaching students to be really thoughtful about their choices moving forward.
+
+
+200
+00:28:26.718 --> 00:28:40.718
+Um, and with that, that leads to the end of the Hackstack workflow, guiding students from structured learning, remixing, to creating independently, all while reinforcing safe, ethical, and effective AI use.
+
+
+201
+00:28:40.718 --> 00:29:05.718
+Whoops. So again, that brings us to the first Hackstack lesson through the student experience, but every lesson follows the same Learn Remix and Create model to reinforce the concepts taught, so there's gonna be plenty of room for discussion between each learning module in the lesson material to reinforce your students' understanding of AI, and the roles they can play in their lives. So with that in mind, let's take a look at some examples of completed student projects in AI Hackstack.
+
+
+202
+00:29:05.718 --> 00:29:16.718
+Here are a few examples of the projects students have created with Hackstack. Uh, let's go ahead and take a closer look at this recycling app another student has created.
+
+
+203
+00:29:16.718 --> 00:29:32.718
+So as we step into this student's project, you may notice a few differences from the last scenario. In this case, the student used ChatGPT4 rather than Dolly 3 to create a unique app that determines whether a provided image is recyclable. So since the student's goal was to build an app, Hackstack produced code instead of an image.
+
+
+204
+00:29:32.718 --> 00:29:46.718
+Here, we're going to be able to see a description of what the student instructed the AI to create. We're going to be given a clipboardable HTML code that it produced. We're also going to be given access to edit that code if students want to make edits as they move forward.
+
+
+205
+00:29:46.718 --> 00:29:55.718
+And finally, we're also going to be given the output feature to preview the current build. So let's go ahead and select output and see that result.
+
+
+206
+00:29:55.718 --> 00:30:03.718
+And as we can see here, we have a rather simple but effective app in terms of classifying what can be recycled and what can't based on an image upload.
+
+
+207
+00:30:03.718 --> 00:30:08.718
+Let's go ahead and test this out and see if it works.
+
+
+208
+00:30:08.718 --> 00:30:12.718
+Choose a file, and I'm just gonna go ahead and select an image of a Coke can here.
+
+
+209
+00:30:12.718 --> 00:30:18.718
+Should be easy enough. Let's see if it actually classifies it correctly.
+
+
+210
+00:30:18.718 --> 00:30:31.718
+And it looks like it is, in fact, recyclable, so it's amazing that it's already detecting, and they were able to create such an app so powerful, in a matter of minutes by simply using prompting and AI Hackstack. Let's go ahead and test it a little bit further.
+
+
+211
+00:30:31.718 --> 00:30:37.718
+Maybe let's use something with a similar color, but different properties.
+
+
+212
+00:30:37.718 --> 00:30:49.718
+And again, it looks like the app itself is working, so now we can see that students can really drive lasting results, and they can produce a lot of really powerful, uh, different creations through using their own.
+
+
+213
+00:30:49.718 --> 00:31:11.718
+Activity. So we're gonna go ahead and exit and return to Hackstack here. From here, students can continue refining those projects, they can adjust the fonts, the colors, and functionality, or make other UI improvements, until they're satisfied with their creations. So this example, again, really shows how powerful Hackstack can be, and just how creative students can become when they're given the right tools.
+
+
+214
+00:31:11.718 --> 00:31:26.718
+And that brings us to our fourth and final poll of the day. So again, there's no right or wrong answer to this poll, we just want to know your opinion. What makes you most nervous about your students using AI HalfStack? Would it be, um, A, inappropriate requests, B, cheating.
+
+
+215
+00:31:26.718 --> 00:31:35.718
+C, sharing PII, or other, which we'd ask you to include in the chat.
+
+
+216
+00:31:35.718 --> 00:31:41.718
+It looks like most people are concerned with. Cheating, inappropriate requests.
+
+
+217
+00:31:41.718 --> 00:31:51.718
+Sharing PII. And then, uh, we have a teacher saying students just clicking through.
+
+
+218
+00:31:51.718 --> 00:32:18.718
+That's a good point, Trevor. One thing I do want to note is that in terms of the multiple choice and more of the click-through material in Hackstack, that's more going to be focused along the learning segment of the portion of, uh… the scenarios themselves. So they are going to be given those training wheels so that they can really kind of better be corralled into the right answer in terms of prompting. But from that point, they're going to be given free rein within the remix and the create functions and the scenarios of those AI hackstack to be able to really.
+
+
+219
+00:32:18.718 --> 00:32:25.718
+Take what they learn, um, followed by the instruction that's given in the lesson slides and lesson plans, and apply that to creating their own.
+
+
+220
+00:32:25.718 --> 00:32:31.718
+Creations from scratch.
+
+
+221
+00:32:31.718 --> 00:32:37.718
+Close to cheating, but just making sure they learn that this should supplement learning, not replace doing your work.
+
+
+222
+00:32:37.718 --> 00:32:49.718
+Absolutely. Ai efficacy is definitely something that we're mindful of, and we want to reinforce that in the classroom as well.
+
+
+223
+00:32:49.718 --> 00:32:50.718
+Perfect. Thanks so much for your guys' responses.
+
+
+224
+00:32:50.718 --> 00:33:00.718
+Yeah, great question.
+
+
+225
+00:33:00.718 --> 00:33:23.718
+Alright, so that brings us to the end of today's AI Hackstack training. If you felt the training was informative and want to dive even deeper, we do offer AI Hacks Tech Professional Development Workshops. So here are just a few examples of the PD your staff can complete through our AIPD series. Again, please don't hesitate to reach out if you want to know more. You're welcome to email us at AI at codecombat.com for any additional information.
+
+
+226
+00:33:23.718 --> 00:33:45.718
+And that brings us to the question segment. So, does anyone have any questions? If so, feel free to write them in the chat, uh, or the QA section of the webinar. We're going to provide plenty of time for you guys to write out your questions, and hopefully we can answer them in a timely manner before the end of this webinar. But feel free to drop those in the chat so that we can address those for you.
+
+
+227
+00:33:45.718 --> 00:33:57.718
+I see someone was asking for that link again, so I'm searching for it. I'm gonna drop it… In the chat.
+
+
+228
+00:33:57.718 --> 00:34:12.718
+And Gil, I see that you missed the Google Docs, but it looks like we sent… a link there for ya.
+
+
+229
+00:34:12.718 --> 00:34:39.718
+So in terms of Hackstack licensing, Hackstack does come completely accessible to those who have student licenses across the board with our Code Combat, Osaria, Code Combat Junior, and all of our other products that we offer as well. It essentially is a one-size-fits-all license that applies to all of our products. However, we do also offer specific AI HackStack licensing for any who are interested in AI HackStack specifically.
+
+
+230
+00:34:39.718 --> 00:35:01.718
+Melanie, you will not need a separate license. You're actually going to be able to use the same licenses that you are currently using with your students. That's going to give you complete access to Assign Hackstack as a course to your students. And again, we do also offer the first module of Hackstack free to trial for anyone who is unlicensed, so you guys will have access to kind of explore that first module.
+
+
+231
+00:35:01.718 --> 00:35:08.718
+Um, Phillip, are you saying the tiny URL link is not working?
+
+
+232
+00:35:08.718 --> 00:35:13.718
+Please let me know.
+
+
+233
+00:35:13.718 --> 00:35:14.718
+Got it.
+
+
+234
+00:35:14.718 --> 00:35:26.718
+Call Combat does have an esports. Um, league? It is separate. We have our Cold Combat, which is a core coding program that teaches coding, and we do have a separate.
+
+
+235
+00:35:26.718 --> 00:35:39.718
+Esports League as well.
+
+
+236
+00:35:39.718 --> 00:35:56.718
+The best way, Terry, would be to go to our schools page. That's the one resource that we could give you outside of just reaching out to us, and we're happy to go ahead and either advocate on your behalf in terms of pitching to an admin or anyone regarding the money decisions, you're welcome to, again, email us at AI at codecombat.com.
+
+
+237
+00:35:56.718 --> 00:36:14.718
+Um, and we'd be happy to respond, uh, with any answers to any of your questions, as well as any additional information you might need. But you can also locate a overview of all of our products on our Code Combat Schools page, which I'm going to go ahead and link here for you.
+
+
+238
+00:36:14.718 --> 00:36:29.718
+And that should give you a fairly detailed breakdown of the current and new and existing products that we offer across the board.
+
+
+239
+00:36:29.718 --> 00:36:40.718
+Um, Phillip, I see you're stating that the link is not working. If you wanted to drop your email in the chat, that's fine. If not, you can email ai at coldcombat.com.
+
+
+240
+00:36:40.718 --> 00:36:50.718
+And we'll send it over to you.
+
+
+241
+00:36:50.718 --> 00:36:56.718
+Elizabeth Ratliff, yes, we service everyone, so if you're interested in getting licenses for your.
+
+
+242
+00:36:56.718 --> 00:37:03.718
+Youth organizations, please contact us at AI at coldcombat.com, and we'll get you in touch with the right.
+
+
+243
+00:37:03.718 --> 00:37:12.718
+Person.
+
+
+244
+00:37:12.718 --> 00:37:20.718
+We do also have lesson plans, Phillip, for all of our products, yes. We have lesson plans, as well as turnkey lesson slides, which essentially is the bread and butter of.
+
+
+245
+00:37:20.718 --> 00:37:27.718
+Of our curriculum here at Code Combat.
+
+
+246
+00:37:27.718 --> 00:37:33.718
+Thank you, Terry. Thanks for coming.
+
+
+247
+00:37:33.718 --> 00:37:53.718
+All right, everyone, well, it looks like there are not really many questions coming in anymore, so we're gonna go ahead and end it here. We think you guys all again for joining us here today. Hopefully, again, this was informative and there was a lot of value here for you guys, um, in your just as excited as we are about AI Hackstack. Again, if you do have any additional questions, or you want any.
+
+
+248
+00:37:53.718 --> 00:38:04.718
+Additional information on the Hackstack program, or any of our other programs, feel free to email us at AI at codecombat.com, and we'll be sure to address all of those questions for you as soon as we can.
+
+
+249
+00:38:04.718 --> 00:38:06.718
+Thank you, everyone.
+
+
+250
+00:38:06.718 --> 00:38:11.718
+Everyone
+
+
+

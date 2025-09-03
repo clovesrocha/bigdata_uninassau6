@@ -1,0 +1,1023 @@
+WEBVTT
+
+1
+00:00:01.638 --> 00:00:14.688
+CodeCombat Team: Thank you. Thank you for joining us today. We're going to introduce ourselves. We're Gabby and Noah. We're the Success Team, and we're excited to talk with you about how to implement AI Hackstack in your classrooms.
+
+
+2
+00:00:14.688 --> 00:00:27.518
+CodeCombat Team: A little bit about me, I'm a Senior Success Manager at Cone Combat, and as a Success Manager, my job is to make sure your life runs as easy as possible by ensuring you feel confident using our programs.
+
+
+3
+00:00:27.518 --> 00:00:34.827
+CodeCombat Team: I'm also a former educator who understands the demands of the educator role, so I'm always happy to help our educators.
+
+
+4
+00:00:34.998 --> 00:00:37.258
+CodeCombat Team: Now, I'll let Noah introduce himself.
+
+
+5
+00:00:38.438 --> 00:01:03.397
+CodeCombat Team: Thanks, Gabby. Hi, everyone. My name's Noah, and similar to Gabby, I'm a School Success Manager here at Code Combat. I've spent the last few years supporting educators like yourselves drive lasting results in their classrooms, and I actually come from a background of support here at the company, so I've been given a unique opportunity to get to know our products inside and out, and I'm so excited to share how you can leverage our new AI Hackstack program in each of your classrooms today. If you do have any questions after this webinar.
+
+
+6
+00:01:03.398 --> 00:01:07.547
+CodeCombat Team: please don't hesitate to reach out to us at AI at codecombat.com.
+
+
+7
+00:01:10.088 --> 00:01:34.668
+CodeCombat Team: So, a little bit about our company. Code Combat was founded over 10 years ago, and although we are a small team, we serve a lot of students and teachers across the globe. You'll notice that we've now engaged over 20 million engaged students. We have 1 billion lines of code to date that's been coded, with 320,000 supported educators and 75,000 schools reached, 190 plus countries and 5.2 million
+
+
+8
+00:01:34.758 --> 00:01:39.527
+CodeCombat Team: esports players in our AI Esports League, so all very exciting stats for us.
+
+
+9
+00:01:42.068 --> 00:02:06.307
+CodeCombat Team: So before we dive into things, we want to let you know you will receive a certificate of completion for today's webinar. More specifically, you will earn the certificate by responding to all of our poll questions today. I'm sorry, they're going to be scattered throughout the webinar, and there's going to be four in total, so you will receive your certificate of completion in an email after the webinar is concluded, but please don't hesitate to let us know if you need another form of confirmation to verify
+
+
+10
+00:02:06.308 --> 00:02:10.838
+CodeCombat Team: These, professional development hours for licensing purposes in your state or district.
+
+
+11
+00:02:13.168 --> 00:02:20.098
+CodeCombat Team: So we believe that in order to use AI Hackstack effectively, it helps to know a little bit about what AI is and where we can find it in the world.
+
+
+12
+00:02:22.098 --> 00:02:32.617
+CodeCombat Team: Here's our first poll for today. You should see a poll pop-up screen in just a second here, but we want to know which of the following is not an example of AI?
+
+
+13
+00:02:32.668 --> 00:02:44.458
+CodeCombat Team: Is it A autocorrect in text documents, B, GPS navigation, C, a search engine like Google, or D, a barcode scanner at a store?
+
+
+14
+00:02:45.998 --> 00:02:49.458
+CodeCombat Team: Gonna give you a few moments to answer.
+
+
+15
+00:02:52.638 --> 00:03:07.738
+CodeCombat Team: Okay, it looks like most of us got this right. The correct answer is a barcode scanner at the store is not an example of AI. All of the other options are examples of AI, some of which have been around for quite some time.
+
+
+16
+00:03:11.788 --> 00:03:12.468
+CodeCombat Team: Oops.
+
+
+17
+00:03:15.978 --> 00:03:40.387
+CodeCombat Team: So we like to define AI as software… oh, let's close those results out real quick. So we like to define AI as software that can perform tasks typically completed by a human. This means that a lot of things can be an example of AI. For example, robots dancing is an example of AI, or the ghost chasing Pac-Man is another example of AI. So being able to define the term can help you identify it in the world, which is the first step to critically using AI products like AI Hackstack.
+
+
+18
+00:03:40.388 --> 00:03:44.207
+CodeCombat Team: So with that in mind, can anyone describe more examples of AI in the chat?
+
+
+19
+00:03:50.078 --> 00:03:53.258
+CodeCombat Team: I'll give you a few moments to put some responses down.
+
+
+20
+00:03:56.998 --> 00:03:58.968
+CodeCombat Team: Sure. So…
+
+
+21
+00:03:59.328 --> 00:04:19.297
+CodeCombat Team: AI, essentially, we like to think of it as software that can perform tasks typically completed by a human. So that means that a lot of things can be examples of AI. So, for example, robots dancing would be an example of AI, or those ghosts in Pac-Man that chase Pac-Man would be an example. So with those examples in mind, can anyone else come up with any other examples in the chat below?
+
+
+22
+00:04:21.738 --> 00:04:23.867
+CodeCombat Team: Yeah, an AI video generator.
+
+
+23
+00:04:24.568 --> 00:04:29.228
+CodeCombat Team: ChatGPT, it's definitely a great example of AI. Or Alexa.
+
+
+24
+00:04:33.308 --> 00:04:35.958
+CodeCombat Team: Yeah, self-driving cars, that's another great example.
+
+
+25
+00:04:39.398 --> 00:04:41.947
+CodeCombat Team: Awesome. Thanks, guys, for all your responses.
+
+
+26
+00:04:44.588 --> 00:04:57.917
+CodeCombat Team: Right, so now that we know a little bit more about AI, it's time to see how you can effectively use AI Hackstack in the classroom. We're going to go through a typical teacher's workflow when using Hackstack in its curriculum.
+
+
+27
+00:05:00.548 --> 00:05:14.597
+CodeCombat Team: So the first thing you will need to do is set up your first AI Hackstack class. This is where you can assign levels to your students to complete in Hackstack. When you create a class, make sure that you select AI Hackstack as your initial course.
+
+
+28
+00:05:14.788 --> 00:05:26.548
+CodeCombat Team: We're gonna share our screen to show you how to do that, and then once your educator account is created on coldcombat.com, you'll go to your, Cold Combat Teacher Dashboard.
+
+
+29
+00:05:28.958 --> 00:05:32.577
+CodeCombat Team: Once you're there, you'll select Add New Class.
+
+
+30
+00:05:34.958 --> 00:05:48.037
+CodeCombat Team: In the pop-up that appears, there is an option to import your students via Google Classroom or via your Azaria Classroom, if you already have a class set up in our other coding program, or you can enter the details manually.
+
+
+31
+00:05:48.198 --> 00:05:51.457
+CodeCombat Team: When doing it manually, you'll create a class name.
+
+
+32
+00:05:52.328 --> 00:05:56.147
+CodeCombat Team: You'll then select the initial courses you want students to start with.
+
+
+33
+00:05:56.628 --> 00:06:11.348
+CodeCombat Team: Here you'll see the Code Combat Junior option, which is designed for the elementary learner, the Code Combat Introduction to Computer Science option, that's designed for secondary students. These are two of three of Code Combat's core platforms that teach coding.
+
+
+34
+00:06:11.358 --> 00:06:23.627
+CodeCombat Team: You'll also see the AI Hackstack option. So teachers have an ability to select all of the options for the initial courses when relevant. However, for this presentation, we're just going to select AI Hack Stack.
+
+
+35
+00:06:23.948 --> 00:06:32.308
+CodeCombat Team: And then we don't have to worry about choosing a programming language for AI Hackstat, because it defaults to JavaScript. So now we'll click Create Class.
+
+
+36
+00:06:33.647 --> 00:06:38.867
+CodeCombat Team: And then once you create a class, it'll show in a list under all classes.
+
+
+37
+00:06:39.718 --> 00:06:44.607
+CodeCombat Team: For this presentation, we're going to use our demo class to show you our teacher dashboard.
+
+
+38
+00:06:47.518 --> 00:06:53.847
+CodeCombat Team: So, jumping into the class, You'll notice once it loads here….
+
+
+39
+00:06:54.018 --> 00:06:58.897
+CodeCombat Team: Sorry, give me a second, Gabby. Are we having trouble seeing this screen here?
+
+
+40
+00:07:01.088 --> 00:07:03.627
+CodeCombat Team: Can everyone see the teacher dashboard?
+
+
+41
+00:07:05.378 --> 00:07:07.498
+CodeCombat Team: Okay, perfect. Just wanted to make sure.
+
+
+42
+00:07:07.698 --> 00:07:19.748
+CodeCombat Team: Thank you. So you'll see the student roster on the left-hand side of your screen when students are enrolled in the class. From this dashboard, you can easily apply and revoke student licenses.
+
+
+43
+00:07:19.768 --> 00:07:37.437
+CodeCombat Team: And remove students by selecting all students or individual students, and choosing the operation you want to perform. The dashboard is very user-friendly. There are also progress bubbles where you can easily keep track of how your students are progressing through the content from the dashboard.
+
+
+44
+00:07:37.438 --> 00:07:41.898
+CodeCombat Team: Progress bubbles for activities are clickable, so you can view students' work.
+
+
+45
+00:07:42.378 --> 00:07:44.867
+CodeCombat Team: And even view their project submissions.
+
+
+46
+00:07:46.078 --> 00:08:07.978
+CodeCombat Team: You can also lock content from here, so entire modules can be locked at a time from the dashboard by simply hovering over the lock icon and locking or unlocking that module. Locking content can be useful if you are following our lesson plans, want to pause students from getting too far ahead, or want to pause students to review important concepts.
+
+
+47
+00:08:08.298 --> 00:08:10.897
+CodeCombat Team: So now let's jump into the curriculum.
+
+
+48
+00:08:15.168 --> 00:08:24.778
+CodeCombat Team: So, in the Curriculum Guide tab, there are 9 modules that are categorized into different themes and subjects to allow students to explore AI in different content areas.
+
+
+49
+00:08:24.828 --> 00:08:41.058
+CodeCombat Team: Currently, everyone has access to the first module for free. If you're interested in trying more of the curriculum, please don't hesitate to reach out to us at AI at coldcombat.com. We'll make sure that you can check out the rest. Now, let's dive into the first lesson in AI Hackstack.
+
+
+50
+00:08:43.768 --> 00:09:01.808
+CodeCombat Team: So, our slides are student-facing and designed to help guide… to help you guide the class through each lesson. As we dive into the first lesson in the AI Hackstack curriculum, be sure to check the notes section on the title slides. These notes include helpful guidance and talking points to support your instruction.
+
+
+51
+00:09:07.838 --> 00:09:21.878
+CodeCombat Team: Today's journey slide shows the agenda. Notice the structure of this lesson. Learn, remix, create. This is the structure that will… that you will find in all of the lessons, no matter the topic being taught within the lesson.
+
+
+52
+00:09:24.378 --> 00:09:34.578
+CodeCombat Team: Students are given the goals of that day's lesson. This slide is important because it helps create purpose, focus, and motivation in the learning process for the lesson.
+
+
+53
+00:09:37.998 --> 00:09:55.928
+CodeCombat Team: Note the slide's objective is highlighted at the top of each slide. As we've seen, Lesson 1 is broken down into five parts, chat, learn, remix, create, and close. It starts with three Let's Chat questions that help students explore the topic together in a structured, thoughtful way.
+
+
+54
+00:09:55.928 --> 00:10:03.027
+CodeCombat Team: These conversations are designed to deepen understanding, encourage students to make connections, and build critical thinking skills.
+
+
+55
+00:10:03.058 --> 00:10:15.747
+CodeCombat Team: This is an example, and another… then this is just another reminder for me. Be sure to check out the notes section on each slide. That's where we've added helpful talking points and guidance to support you as you lead the lesson.
+
+
+56
+00:10:16.208 --> 00:10:19.077
+CodeCombat Team: And now we're just gonna jump into presenter mode.
+
+
+57
+00:10:19.178 --> 00:10:21.958
+CodeCombat Team: And show you the slides as the students would see them.
+
+
+58
+00:10:22.408 --> 00:10:41.648
+CodeCombat Team: So, as the lesson progresses, we'll transition into the learn phase. This is where students dive into the AI Hackstack program. The platform guides them step-by-step through activities we've designed to help them use AI effectively. In this particular activity, students will be learning how to use AI to create a game.
+
+
+59
+00:10:43.978 --> 00:11:00.037
+CodeCombat Team: After students are in the program and completed the learn phase, they'll debrief. You can do a think, pair, and share here small group discussion, or a whole class discussion. This allows students to engage with the material, think critically, and apply what they're learning in real time.
+
+
+60
+00:11:02.238 --> 00:11:14.817
+CodeCombat Team: Next, students move into the remix part of the lesson. This phase still provides guidance, but gives them a bit more freedom to experiment and start bringing in their own ideas while learning to use AI more effectively.
+
+
+61
+00:11:17.118 --> 00:11:21.747
+CodeCombat Team: After completing the remix activity, there are more discussion slides.
+
+
+62
+00:11:23.688 --> 00:11:30.467
+CodeCombat Team: In this lesson, there is even a student-led Socratic seminar where students engage in a thoughtful discussion.
+
+
+63
+00:11:36.018 --> 00:11:47.737
+CodeCombat Team: Here's the question for this lesson. These student-led conversations aim to shift the classroom to a student-centered inquiry, helping students become more thoughtful, engaged, and articulate learners.
+
+
+64
+00:11:49.828 --> 00:11:59.978
+CodeCombat Team: Now students move into the create phase of the lesson. This is another way to formatively assess students. Here, they can put everything they've learned so far into practice.
+
+
+65
+00:12:03.638 --> 00:12:12.777
+CodeCombat Team: After students create their game in this lesson, they get a chance to show off their work to their peers and provide feedback, promoting a collaborative classroom culture.
+
+
+66
+00:12:16.348 --> 00:12:21.538
+CodeCombat Team: After the gallery walk, there are more discussion slides. Here's an example of one that follows.
+
+
+67
+00:12:24.708 --> 00:12:33.858
+CodeCombat Team: And we know that understanding vocabulary using the industry is important, so here students are given important vocabulary terms they should know in the context of the lesson.
+
+
+68
+00:12:37.118 --> 00:12:56.818
+CodeCombat Team: At the end of a lesson, there are wrap-up questions. This lesson has 3 wrap-up questions, and here's an example. The wrap-up questions are formative assessments to assess students' understanding of the lesson. These questions can be answered as a whole group discussion, think-pair-share, small group, and even given in the form of exit tickets.
+
+
+69
+00:13:00.378 --> 00:13:25.107
+CodeCombat Team: That takes us to the end of the first lesson, where you could see the standards that is tied to this particular lesson. So I hope that this was helpful, and as you can see, the lesson has students moving in and out of the AI Hackstack program in a structured way. The activities are designed to help them learn how to use AI effectively, while also encouraging peer learning, supporting critical thinking, and building confidence along the way.
+
+
+70
+00:13:25.108 --> 00:13:28.538
+CodeCombat Team: Now, let's hop back into the presentation.
+
+
+71
+00:13:33.138 --> 00:13:52.638
+CodeCombat Team: Each lesson in its entirety is estimated to take about 5 class sessions. We recommend you use the lessons as much as you can because they contain important discussion and debate prompts within them because of the newness of AI. Discussion is one of the best ways to help students formulate their own ideas and opinions about AI.
+
+
+72
+00:13:52.788 --> 00:14:06.757
+CodeCombat Team: We also support a self-paced use of AI has set. Each, learn, remix, create set of levels is estimated to take about 2 hours of time. Now we're going to share our screen and show you the actual pacing guide.
+
+
+73
+00:14:12.498 --> 00:14:29.868
+CodeCombat Team: So, this is our AI Hacks That Pacing Guide. What you're looking at right now is the one-year pacing overview. If you scroll down, you'll find a more detailed breakdown of the lessons. There are also two tabs at the bottom of the page. If you're looking for a semester-length, self-paced plan instead, just click that option.
+
+
+74
+00:14:29.868 --> 00:14:34.918
+CodeCombat Team: So, this pacing guide can be found in the Getting Started folder, in the teacher
+
+
+75
+00:14:34.918 --> 00:14:38.427
+CodeCombat Team: Toolkit, and it can help you structure your classes.
+
+
+76
+00:14:43.138 --> 00:14:59.217
+CodeCombat Team: And we also know that assessments are important, so we have added both a formative and summative assessments to every lesson and module. Each lesson contains four formative assessments, wrap-up exit ticket questions for each learning objective, and one mini-project prompt.
+
+
+77
+00:14:59.348 --> 00:15:03.718
+CodeCombat Team: The mini project is the create step of the Learn, Remix, Create.
+
+
+78
+00:15:03.868 --> 00:15:10.217
+CodeCombat Team: Every module contains an open-ended project that you can use to assess your student's overall mastery of the topics.
+
+
+79
+00:15:10.468 --> 00:15:16.028
+CodeCombat Team: We have included exemplar projects and rubrics to help you implement these in your classrooms.
+
+
+80
+00:15:18.848 --> 00:15:37.137
+CodeCombat Team: Finally, you can use the teacher dashboard to highlight the progress and safety of your students. Although we prevent your students from requesting inappropriate things in Hackstead, we provide you with a log of those requests. This can be useful when you are having conversations with families and administrators and students.
+
+
+81
+00:15:37.208 --> 00:15:49.737
+CodeCombat Team: We also have many data agreements with the big AI companies, so they cannot legally save your student data. We also have filters in place to remove PII if it is accidentally included within the prompt.
+
+
+82
+00:15:50.028 --> 00:16:00.507
+CodeCombat Team: Finally, you can always lock levels if you feel uncomfortable with your students using a particular model. Now we're going to share our screen and show you what the flag system looks like.
+
+
+83
+00:16:05.358 --> 00:16:25.788
+CodeCombat Team: So we're going now to the teacher dashboard to show you how you'll be able to detect when a student submits an inappropriate prompt. A violation can be identified when a red square appears around a circle. By clicking on the flag circle, you can view more about that violation. Here's a case where a student attempted to create a game containing crashing language and inappropriate content.
+
+
+84
+00:16:25.788 --> 00:16:32.078
+CodeCombat Team: When a violation occurs, our AI program will block the prompt instead of executing the instruction.
+
+
+85
+00:16:32.078 --> 00:16:36.788
+CodeCombat Team: The student must revise and submit an appropriate prompt in order to proceed.
+
+
+86
+00:16:36.848 --> 00:16:43.858
+CodeCombat Team: You may also view the full project by clicking the Open Project button located below the list of safety violations.
+
+
+87
+00:16:45.218 --> 00:16:56.107
+CodeCombat Team: So, ultimately, we hope these safety features provide peace of mind and enable you to confidently monitor your students as they learn to use AI responsibly.
+
+
+88
+00:16:56.348 --> 00:16:59.598
+CodeCombat Team: Now we're hopping back to the presentation.
+
+
+89
+00:17:00.368 --> 00:17:06.437
+CodeCombat Team: And it's time for another poll here. There's no right or wrong answer.
+
+
+90
+00:17:08.428 --> 00:17:11.217
+CodeCombat Team: I'm just gonna launch that for you.
+
+
+91
+00:17:11.468 --> 00:17:14.327
+CodeCombat Team: So, we just want to note your…
+
+
+92
+00:17:14.818 --> 00:17:33.287
+CodeCombat Team: Opinion here. What feature would you like to see added to the teacher dashboard? A, percent of unit completed. B, notifications for new moderation flags, C, auto-graded projects, or D, something else. Other. Please write… if it's something else, please write it in the chat for us.
+
+
+93
+00:17:36.738 --> 00:17:40.888
+CodeCombat Team: It looks like many people want to see the auto-graded projects.
+
+
+94
+00:17:42.748 --> 00:17:49.097
+CodeCombat Team: Then percent of unit completed. After that, we have notifications for new moderation flags.
+
+
+95
+00:17:51.978 --> 00:17:57.338
+CodeCombat Team: Thank you for sharing that. We'll definitely let our product team know.
+
+
+96
+00:18:03.788 --> 00:18:18.257
+CodeCombat Team: And we have another poll here. What model would you like to see added to Hackstat? A, Imogen, B, Suno, C, V, O, D, something else? Keep in mind, we already have ChatGBT,
+
+
+97
+00:18:18.418 --> 00:18:25.077
+CodeCombat Team: Google Gemini, Dolly 3, Cloud Sonnet, and Stable Diffusion. Let me launch that for you.
+
+
+98
+00:18:25.238 --> 00:18:28.018
+CodeCombat Team: Please tell us what you would like to see added.
+
+
+99
+00:18:33.888 --> 00:18:37.787
+CodeCombat Team: Looks like many people are interested in Suno.
+
+
+100
+00:18:40.058 --> 00:18:41.238
+CodeCombat Team: Tuna's a great one.
+
+
+101
+00:18:41.968 --> 00:18:45.917
+CodeCombat Team: We have VO in second place, Imogen…
+
+
+102
+00:18:47.568 --> 00:18:50.588
+CodeCombat Team: Thank you all for sharing that information.
+
+
+103
+00:18:52.968 --> 00:19:01.238
+CodeCombat Team: And… Let's see… I see writing assistance in the, chat as well. That's great, actually.
+
+
+104
+00:19:01.978 --> 00:19:13.707
+CodeCombat Team: Perfect. Well, thanks, Gabby, for that fantastic presentation. So now that we've gone over the educator experience in Hackstack, it's time to see the student side of things. Let's experience the first lesson again, but this time through the lens of a student.
+
+
+105
+00:19:15.918 --> 00:19:36.727
+CodeCombat Team: So Hackstack was designed for middle school and high school students. In addition to aligning a curriculum around the big standards like Common Core and NGSS, we are making sure that every lesson is also aligned with the Code Combat AI literacy skills for each grade level. This means that your students will learn important 21st century skills alongside the content-specific skills they need. With that in mind, let's take a look at our AI literacy framework.
+
+
+106
+00:19:39.958 --> 00:19:40.738
+CodeCombat Team: So the f-
+
+
+107
+00:19:40.968 --> 00:19:56.488
+CodeCombat Team: The framework is organized with one big idea per section, followed by three skill sets that support it. Each skill is then broken down into specific grade-level objectives, creating a complete K-12 pathway. There's also a Going Further section for students who want to challenge themselves beyond those core objectives.
+
+
+108
+00:19:59.908 --> 00:20:10.877
+CodeCombat Team: Remember, every lesson follows a learn, remix, create structure, so with that in mind, let's complete each of these steps as a student. I'm now going to share my screen and hop into one of our first AI HackSec learning modules.
+
+
+109
+00:20:14.338 --> 00:20:16.158
+CodeCombat Team: Oops, let's hop in here.
+
+
+110
+00:20:17.508 --> 00:20:28.988
+CodeCombat Team: Perfect, so once AI Hackstack has been assigned to students, they can jump into the platform through the My Courses section of their student dashboard. As we come into the main AI Hackstack page, right away, there are two things worth noting on the left side of the screen.
+
+
+111
+00:20:28.988 --> 00:20:51.808
+CodeCombat Team: The first is the My Creations tab here, where students can quickly access any projects they've worked on before, and second, we have the My Courses tab, where they can open or revisit courses and learning scenarios they've started or completed. On the right side, we see 9 different learning modules, each offering unique scenarios across a variety of subjects. For today's training, we'll head into the English Language Arts section, Module 2A, and open the first scenario, Dreams.
+
+
+112
+00:20:53.178 --> 00:21:07.588
+CodeCombat Team: So when we select this module, you'll see the familiar Learn, Remix, and Create structure that runs across all HackStack scenarios. This consistency helps students quickly understand what's expected and gives them the tools they need to confidently create. Let's go ahead and hop into Dreams now.
+
+
+113
+00:21:10.308 --> 00:21:25.407
+CodeCombat Team: So right upon entering the scenario, we're greeted by our teacher chatbot with a friendly welcome message. AI Hackstack lessons are delivered through chatbot interactions like this one, just like a common AI engine, making the experience authentic and familiar. Let's go ahead and click continue.
+
+
+114
+00:21:27.438 --> 00:21:29.598
+CodeCombat Team: Alright, and upon… oops, sorry.
+
+
+115
+00:21:29.938 --> 00:21:34.778
+CodeCombat Team: So, again, now we're given our first scenario, where we're greeted by our chatbot with
+
+
+116
+00:21:35.048 --> 00:21:41.738
+CodeCombat Team: essentially an objective to read the first stanza of Langston Hughes' poem, Dreams. Hackstack is also going to provide…
+
+
+117
+00:21:42.278 --> 00:21:47.688
+CodeCombat Team: provide us with a link where we can access that poem and we can read it. We'll go ahead and select that.
+
+
+118
+00:21:47.978 --> 00:21:49.817
+CodeCombat Team: And let's take a look at the first stanza.
+
+
+119
+00:21:51.658 --> 00:21:57.597
+CodeCombat Team: And it reads, Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.
+
+
+120
+00:21:59.258 --> 00:22:03.448
+CodeCombat Team: Perfect. So now back in Hackstack, and once we click continue.
+
+
+121
+00:22:04.078 --> 00:22:07.748
+CodeCombat Team: We're gonna be told to prompt the AI to illustrate that stanza.
+
+
+122
+00:22:07.788 --> 00:22:09.467
+CodeCombat Team: Let's go ahead and continue again.
+
+
+123
+00:22:09.468 --> 00:22:28.958
+CodeCombat Team: So, in the Learn portion, students are provided with multiple pre-written prompts to help guide their AI interactions. These scenarios are real AI engines, in this case, Dolly 3. Students are given several prompt options here. They can revisit the stanza as well by either tabbing back over to that same tab that they have it open, or by selecting that link they were previously provided.
+
+
+124
+00:22:29.008 --> 00:22:36.538
+CodeCombat Team: So let's go ahead and experiment here. Let's say we want to choose something maybe a bit vague or incorrect, like this short prompt here, create an image of a bird.
+
+
+125
+00:22:36.988 --> 00:22:53.558
+CodeCombat Team: Immediately, Hackstack is going to flag it. It's going to explain why it's not strong enough and how to improve that. So this feedback helps students develop better prompting skills overall. Let's go ahead and see this example in the bottom prompt here. Create an image of a sad Langston Hughes holding a bird in its hands.
+
+
+126
+00:22:55.578 --> 00:23:06.077
+CodeCombat Team: And again, we're going to reach that flag, but this one is actually going to be flagging it for not only copyright purposes, but also AI efficacy in terms of using the likeness of a specific person.
+
+
+127
+00:23:06.508 --> 00:23:09.717
+CodeCombat Team: Let's go ahead and use the correct prompt as well.
+
+
+128
+00:23:10.258 --> 00:23:16.388
+CodeCombat Team: Which is, create a gloomy, Sorry, create a gloomy black and white image of a bird that cannot fly.
+
+
+129
+00:23:18.088 --> 00:23:19.008
+CodeCombat Team: Alright.
+
+
+130
+00:23:19.968 --> 00:23:36.837
+CodeCombat Team: Click continue here. So now Hackstack has generated a striking image that captures the Sansa's mood perfectly, and beneath that image, we have a link that the students can copy and use in other projects, plus a caption showing the exact language used to create it, which reinforces the descriptive prompts that lead to better results.
+
+
+131
+00:23:37.218 --> 00:23:38.788
+CodeCombat Team: Go ahead and click continue.
+
+
+132
+00:23:42.178 --> 00:23:50.637
+CodeCombat Team: Next, the chatbot is going to introduce Part 2, and it's essentially going to ask us if we knew that using the same prompt can actually produce a different result.
+
+
+133
+00:23:52.888 --> 00:23:56.278
+CodeCombat Team: So now we're instructed to select the same prompt and see how things change.
+
+
+134
+00:23:58.838 --> 00:23:59.888
+CodeCombat Team: So again.
+
+
+135
+00:24:00.438 --> 00:24:15.737
+CodeCombat Team: We're going to have multiple choice options as a student here. Let's say the student isn't quite paying attention, or maybe lost a little bit of attention along the way and selects the incorrect prompt. Again, we're going to get that flag, which in this case is going to flag it for being inappropriate, since it's actually
+
+
+136
+00:24:15.738 --> 00:24:24.018
+CodeCombat Team: Trying to prompt a gory image of a bird that's dying, but let's go ahead and select the correct answer here. Create a gloomy black and white image of a bird that cannot fly.
+
+
+137
+00:24:27.658 --> 00:24:39.017
+CodeCombat Team: Alright, so we use the same prompt again, and this time it gets… we get a very different image. So, an empty field with a sad ostrich this time. This teaches students that they can rerun prompts for variety until they get what they want.
+
+
+138
+00:24:42.378 --> 00:24:50.028
+CodeCombat Team: And at the end of this section, the chatbot is going to encourage reflection before moving on to the next phase, illustrating the second stanza.
+
+
+139
+00:24:52.498 --> 00:24:55.298
+CodeCombat Team: So we'll click continue here, we'll get a bit more dialogue.
+
+
+140
+00:24:56.688 --> 00:25:00.847
+CodeCombat Team: And again, we're going to be provided that link to the Langston Hughes poem as well.
+
+
+141
+00:25:02.128 --> 00:25:10.578
+CodeCombat Team: And now we're gonna have the option that leads to our next remix segment, so we're gonna go ahead and select Next Level to enter that remix segment of this.
+
+
+142
+00:25:10.748 --> 00:25:11.788
+CodeCombat Team: Scenario.
+
+
+143
+00:25:13.598 --> 00:25:24.038
+CodeCombat Team: So now we enter the remix segment. This is where the training wheels come off, and students write their own prompts from scratch. So, again, we're going to revisit that same prompt, or I'm sorry, that same poem.
+
+
+144
+00:25:24.158 --> 00:25:32.167
+CodeCombat Team: And if we go up here, we can go ahead and take a look at it. It says, hold fast to dreams for when dreams go. Life is a barren field frozen with snow.
+
+
+145
+00:25:34.068 --> 00:25:36.497
+CodeCombat Team: And then we're gonna hop back here and click continue.
+
+
+146
+00:25:39.728 --> 00:25:53.767
+CodeCombat Team: Alright, so again, we get to revisit that poem, and now we're tasked with prompting directly here as the student. So now we have full reign in terms of where we're going to prompt, so in this case, let's go ahead and write the prompt. Create an image of a desolate
+
+
+147
+00:25:55.188 --> 00:25:57.087
+CodeCombat Team: Field of Snow?
+
+
+148
+00:25:58.408 --> 00:26:00.688
+CodeCombat Team: Oh, let's make some easy little corrections here.
+
+
+149
+00:26:01.208 --> 00:26:04.338
+CodeCombat Team: The image should be dark.
+
+
+150
+00:26:05.668 --> 00:26:06.888
+CodeCombat Team: And gloomy.
+
+
+151
+00:26:07.588 --> 00:26:09.058
+CodeCombat Team: Let's see what this produces.
+
+
+152
+00:26:11.418 --> 00:26:29.888
+CodeCombat Team: All right, and now, while that loads, there's a couple of things we can take note of. One is that we see that there is a credit deposit here, essentially, or a credit pool here beneath the prompt window. So, each student is given 30 prompt credits per week, and this encourages them to be intentional in detailing in their wording, or as detailed
+
+
+153
+00:26:29.888 --> 00:26:45.357
+CodeCombat Team: in the wording as possible. And now we can see we've now produced a brand new image of an empty field of snow. It's a really pretty image of this subject, and it could work, but let's say maybe we're not satisfied with that image, maybe we want to do it again. So let's go ahead and copy what we previously pasted.
+
+
+154
+00:26:47.678 --> 00:26:49.497
+CodeCombat Team: And we'll go ahead and paste that again.
+
+
+155
+00:26:50.348 --> 00:26:56.388
+CodeCombat Team: And we'll let Hackstack take some moments here to create a new image for us, and let's see if we can get something that we like a little bit better.
+
+
+156
+00:27:03.868 --> 00:27:05.257
+CodeCombat Team: We'll just give that a moment.
+
+
+157
+00:27:06.948 --> 00:27:25.508
+CodeCombat Team: Alright, now as we can see, even using the same prompt again in the remix function allows us to get a completely different image. So students really have complete creative control here when it comes to their prompting, and they can produce dramatically different results across the board, which in the classroom can obviously be a lot of fun for students to be able to share with their classmates and their peers.
+
+
+158
+00:27:26.908 --> 00:27:51.818
+CodeCombat Team: And at this point, this basically leads us to the end of the remix section. So, at this point, students can now select this next level, which essentially is going to take them to the Create segment, where students combine what they've learned and build something entirely on their own, through the guidance of learning objectives included in our lesson slides and lesson plans. But before we wrap up, let's go ahead and revisit the student safety features. So once students have free reign over
+
+
+159
+00:27:51.818 --> 00:28:01.478
+CodeCombat Team: prompting. Obviously, we want to ensure that they stay appropriate with their prompting as well. So let's go ahead and test it out from the student perspective again. I'll go ahead and create a prompt here saying.
+
+
+160
+00:28:01.708 --> 00:28:04.058
+CodeCombat Team: Create an image… Whoops.
+
+
+161
+00:28:06.678 --> 00:28:11.488
+CodeCombat Team: Of a, let's say, gory bird, Dead in a field.
+
+
+162
+00:28:14.618 --> 00:28:37.967
+CodeCombat Team: And it can. Immediately, we're going to get that flag, and it's going to break that down in terms of why that's inappropriate. It's also going to deduct one of those prompt credits, teaching students to be really thoughtful about their choices moving forward. And with that, that leads to the end of the Hackstack workflow, guiding students from structured learning, remixing, to creating independently, all while reinforcing safe, ethical, and effective AI use.
+
+
+163
+00:28:41.478 --> 00:28:42.268
+CodeCombat Team: Whoops.
+
+
+164
+00:28:43.188 --> 00:29:04.267
+CodeCombat Team: So again, that brings us to the first Hackstack lesson through the student experience, but every lesson follows the same learn, remix, and create model to reinforce the concepts taught, so there's going to be plenty of room for discussion between each learning module in the lesson material to reinforce your student's understanding of AI and the roles it can play in their lives. So with that in mind, let's take a look at some examples of completed student projects in AI Hackstack.
+
+
+165
+00:29:06.138 --> 00:29:13.297
+CodeCombat Team: Here are a few examples of the projects students have created with Hackstack. Let's go ahead and take a closer look at this recycling app another student has created.
+
+
+166
+00:29:17.148 --> 00:29:42.117
+CodeCombat Team: So as we step into the student's project, you may notice a few differences from the last scenario. In this case, the student used ChatGPT4 rather than Dolly 3 to create a unique app that determines whether a provided image is recyclable. So since the student's goal was to build an app, Hacksack produced code instead of an image. Here, we're going to be able to see a description of what the student instructed the AI to create. We're going to be given a clipboardable HTML code that it produces
+
+
+167
+00:29:42.118 --> 00:29:53.567
+CodeCombat Team: We're also going to be given access to edit that code if students want to make edits as they move forward. And finally, we're also going to be given the output feature to preview the current build. So let's go ahead and select output and see that result.
+
+
+168
+00:29:56.088 --> 00:30:06.388
+CodeCombat Team: And as we can see here, we have a rather simple but effective app in terms of classifying what can be recycled and what can't based on an image upload. Let's go ahead and test this out and see if it works.
+
+
+169
+00:30:09.188 --> 00:30:17.157
+CodeCombat Team: Choose a file. And I'm just going to go ahead and select an image of a Coke can here. Should be easy enough. Let's see if it actually classifies it correctly.
+
+
+170
+00:30:19.428 --> 00:30:35.588
+CodeCombat Team: And it looks like it is, in fact, recyclable, so it's amazing that it's already detecting, and they were able to create such an app so powerful in a matter of minutes by simply using prompting an AI Hackstack. But let's go ahead and test it a little bit further. Maybe let's use something with a similar color, but different properties.
+
+
+171
+00:30:37.938 --> 00:30:50.898
+CodeCombat Team: And again, it looks like the app itself is working, so now we can see that students can really drive lasting results, and they can produce a lot of really powerful, different creations through using their own activity.
+
+
+172
+00:30:51.598 --> 00:31:09.088
+CodeCombat Team: So we're gonna go ahead and exit and return to Hackstack here. From here, students can continue refining those projects, they can adjust the fonts, the colors and functionality, or make other UI improvements, until they're satisfied with their creations. So this example, again, really shows how powerful Hackstack can be, and just how creative students can become when they're given the right tools.
+
+
+173
+00:31:12.248 --> 00:31:31.877
+CodeCombat Team: And that brings us to our fourth and final poll of the day. So again, there's no right or wrong answer to this poll, we just want to know your opinion. What makes you most nervous about your students using AI HalfStack? Would it be, A, inappropriate requests, B, cheating, C, sharing PII, or other, which we'd ask you to include in the chat?
+
+
+174
+00:31:35.858 --> 00:31:44.488
+CodeCombat Team: It looks like most people are concerned with cheating, inappropriate requests, sharing PII.
+
+
+175
+00:31:46.598 --> 00:31:51.298
+CodeCombat Team: And then, we have a teacher saying students just clicking through.
+
+
+176
+00:31:52.238 --> 00:32:03.357
+CodeCombat Team: That's a good point, Trevor. One thing I do want to note is that in terms of the multiple choice and more the click-through material in Hackstack, that's more going to be focused along the learning segment of the portion of, …
+
+
+177
+00:32:03.358 --> 00:32:26.617
+CodeCombat Team: the scenarios themselves. So they are going to be given those training wheels so that they can really kind of better be corralled into the right answer in terms of prompting. But from that point, they're going to be given free rein within the remix and the create functions in the scenarios of those AI hackstack to be able to really take what they learn, followed by the instruction that's given in the lesson slides and lesson plans, and apply that to creating their own
+
+
+178
+00:32:26.618 --> 00:32:28.138
+CodeCombat Team: Creations from scratch.
+
+
+179
+00:32:31.948 --> 00:32:44.108
+CodeCombat Team: Close to cheating, but just making sure they learn that this should supplement learning, not replace doing your work. Absolutely. AI efficacy is definitely something that we're mindful of, and we want to reinforce that in the classroom as well.
+
+
+180
+00:32:51.238 --> 00:32:52.707
+CodeCombat Team: Great question.
+
+
+181
+00:32:54.938 --> 00:32:56.838
+CodeCombat Team: Thanks so much for your guys' responses.
+
+
+182
+00:33:01.138 --> 00:33:22.778
+CodeCombat Team: Alright, so that brings us to the end of today's AI Hackstack training. If you felt the training was informative and want to dive even deeper, we do offer AI HackStack professional development workshops. So here are just a few examples of the PD your staff can complete through our AIPD series. Again, please don't hesitate to reach out if you want to know more. You're welcome to email us at AI at codecombat.com for any additional information.
+
+
+183
+00:33:24.598 --> 00:33:42.277
+CodeCombat Team: And that brings us to the questions segment. So, does anyone have any questions? If so, feel free to write them in the chat or the QA section of the webinar. We're going to provide plenty of time for you guys to write out your questions, and hopefully we can answer them in a timely manner before the end of this webinar. But feel free to drop those in the chat so that we can address those for you.
+
+
+184
+00:33:45.978 --> 00:33:51.168
+CodeCombat Team: I see someone was asking for that link again, so I'm searching for it, I'm gonna drop it…
+
+
+185
+00:33:52.258 --> 00:33:53.647
+CodeCombat Team: In the chat.
+
+
+186
+00:33:58.218 --> 00:34:01.978
+CodeCombat Team: And Gail, I see that you missed the Google Docs, but it looks like we sent…
+
+
+187
+00:34:02.218 --> 00:34:03.897
+CodeCombat Team: A link there for ya.
+
+
+188
+00:34:12.908 --> 00:34:35.508
+CodeCombat Team: So, in terms of Hackstack licensing, Hackstack does come completely accessible to those who have student licenses across the board with our Code Combat, Osaria, Code Combat Junior, and all of our other products that we offer as well. It essentially is a one-size-fits-all license that applies to all of our products. However, we do also offer specific AI Hackstack licensing for any who are interested in AI Hackstack specifically.
+
+
+189
+00:34:39.878 --> 00:34:59.168
+CodeCombat Team: Melanie, you will not need a separate license. You're actually going to be able to use the same licenses that you are currently using with your students. That's going to give you complete access to assign Hackstack as a course to your students. And again, we do also offer the first module of Hackstack free to trial for anyone who is unlicensed, so you guys will have access to kind of explore that first module.
+
+
+190
+00:35:02.768 --> 00:35:07.188
+CodeCombat Team: Phillip, are you saying the tiny URL link is not working?
+
+
+191
+00:35:09.038 --> 00:35:10.667
+CodeCombat Team: Please let me know.
+
+
+192
+00:35:14.468 --> 00:35:19.038
+CodeCombat Team: Cold Comma does have an esports league?
+
+
+193
+00:35:19.168 --> 00:35:29.578
+CodeCombat Team: It is separate. We have our Code Combat, which is a core coding program that teaches coding, and we do have a separate esports league as well.
+
+
+194
+00:35:40.898 --> 00:36:04.577
+CodeCombat Team: The best way, Terry, would be to go to our schools page. That's the one resource that we could give you outside of just reaching out to us, and we're happy to go ahead and either advocate on your behalf in terms of pitching to an admin or anyone regarding the money decisions. You're welcome to, again, email us at AI at codecombat.com, and we'd be happy to respond with any answers to any of your questions, as well as any additional information you might need.
+
+
+195
+00:36:04.578 --> 00:36:11.548
+CodeCombat Team: But you can also locate a overview of all of our products on our Code Combat Schools page, which I'm gonna go ahead and link here for you.
+
+
+196
+00:36:15.078 --> 00:36:21.868
+CodeCombat Team: And that should give you a fairly detailed breakdown of the current and new and existing products that we offer across the board.
+
+
+197
+00:36:30.748 --> 00:36:42.937
+CodeCombat Team: Phillip, I see you're stating that the link is not working. If you wanted to drop your email in the chat, that's fine. If not, you can email ai at coldcombat.com, and we'll send it over to you.
+
+
+198
+00:36:50.928 --> 00:37:05.088
+CodeCombat Team: Elizabeth Ratliff, yes, we service everyone, so if you're interested in getting licenses for your youth organizations, please contact us at AI at coldcombat.com, and we'll get you in touch with the right person.
+
+
+199
+00:37:13.228 --> 00:37:23.447
+CodeCombat Team: We do also have lesson plans, Philip, for all of our products, yes. We have lesson plans as well as turnkey lesson slides, which essentially is the bread and butter of our curriculum here at Code Combat.
+
+
+200
+00:37:27.868 --> 00:37:29.798
+CodeCombat Team: Thank you, Terry. Thanks for coming.
+
+
+201
+00:37:34.028 --> 00:37:58.988
+CodeCombat Team: All right, everyone, well, it looks like there are not really many questions coming in anymore, so we're gonna go ahead and end it here. We thank you guys all again for joining us here today. Hopefully, again, this was informative, and there was a lot of value here for you guys, and you're just as excited as we are about AI Hackstack. Again, if you do have any additional questions, or you want any additional information on the Hackstack program, or any of our other programs, feel free to email us at
+
+
+202
+00:37:58.988 --> 00:38:04.358
+CodeCombat Team: at CodeCombat.com, and we'll be sure to address all of those questions for you as soon as we can.
+
+
+203
+00:38:05.708 --> 00:38:07.278
+CodeCombat Team: Thank you, everyone!
+
+
+204
+00:38:07.278 --> 00:38:08.148
+CodeCombat Team: Everyone.
+
+
+
